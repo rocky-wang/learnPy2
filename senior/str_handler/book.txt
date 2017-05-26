@@ -1,0 +1,3 @@
+booka   23.99
+bookb   12.59
+bookc   19.99
