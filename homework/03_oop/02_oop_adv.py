@@ -29,7 +29,7 @@ Myslot.fun = 20
 
 a2 = Myslot()
 print a2.fun
-# a2.ds = 100
+# a2.01.ds = 100
 
 
 class Hiber(Myslot):
