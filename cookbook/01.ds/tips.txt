@@ -1,0 +1,5 @@
+1、排序比较数据的方式：
+    原则上python提供了一个内置的sorted作为排序方法；
+    若排序元素类型为列表里保存的是字典类型：
+        from operator import itemgetter
+    若排序元素本身就是字典，必须借助zip函数进行数据的重构。
